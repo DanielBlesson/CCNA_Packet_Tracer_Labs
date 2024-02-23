@@ -37,4 +37,6 @@ It includes protocols like HTTP, FTP, SMTP, DNS, etc., which enable communicatio
 It allows users to access network resources and perform tasks such as file transfers, email communication, and web browsing.
 
 # Preview
+![Screenshot 2024-02-23 190339](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/fdc85d8d-6db8-4df8-ba2c-a1a3b05473b8)
+![Screenshot 2024-02-23 190405](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/f667f1e0-93e6-4aad-bea9-be5992b50d17)
 
