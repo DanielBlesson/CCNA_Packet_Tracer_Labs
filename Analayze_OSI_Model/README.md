@@ -35,3 +35,6 @@ Application Layer (Layer 7):
 This layer interacts directly with end-user applications and provides network services to applications.
 It includes protocols like HTTP, FTP, SMTP, DNS, etc., which enable communication between software applications.
 It allows users to access network resources and perform tasks such as file transfers, email communication, and web browsing.
+
+# Preview
+
