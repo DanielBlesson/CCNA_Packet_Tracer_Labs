@@ -17,3 +17,5 @@ The enable secret command is similar to the enable password command but provides
 Router(config)# enable secret <password>
 
 By using these commands together, you can enhance the security of your network devices. However, keep in mind that these are just basic security measures. For comprehensive security, consider additional measures such as access control lists (ACLs), role-based access control (RBAC), Secure Shell (SSH) for remote access, and regular audits of device configurations. Additionally, always ensure that passwords are strong and changed regularly.
+
+# Preview
