@@ -19,3 +19,7 @@ Using clear mac-address-table dynamic:
 If you want to clear the dynamically learned MAC addresses from the table (for example, to refresh the table or troubleshoot network connectivity issues), you can use the clear mac-address-table dynamic command. Here's how you can use it:
 Switch# clear mac-address-table dynamic
 This command clears only the dynamically learned MAC addresses, leaving any statically configured MAC addresses intact.
+
+# Preview
+![Screenshot 2024-03-13 101935](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/95815655-9147-46e5-a72b-f233c19f6d06)
+![Screenshot 2024-03-13 102517](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/68b4cae2-ce39-4ba8-ade3-aa1ed486b17d)
