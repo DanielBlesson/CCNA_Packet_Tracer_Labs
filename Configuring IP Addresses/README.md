@@ -40,3 +40,12 @@ Router# show ip interface brief
 
 
 This sequence of commands will configure the IP address on the specified interface and verify its status using the show ip interface brief command.
+
+# Preview
+![Screenshot 2024-03-14 093352](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/053ccb4a-21b0-40a0-aed3-5b4bbeb3eb03)
+
+
+![Screenshot 2024-03-14 093617](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/b8e7e818-74f5-416b-a689-a76fdaa38595)
+
+
+![Screenshot 2024-03-14 094022](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/19cb4a23-b480-45fb-baaa-73f114e62b62)
