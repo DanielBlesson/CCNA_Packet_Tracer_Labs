@@ -23,12 +23,20 @@ For example: no shutdown
 Here's an example session illustrating these steps:
 
 Router> enable
+
 Router# configure terminal
+
 Router(config)# interface GigabitEthernet0/1
+
 Router(config-if)# ip address 192.168.1.1 255.255.255.0
+
 Router(config-if)# no shutdown
+
 Router(config-if)# exit
+
 Router(config)# exit
+
 Router# show ip interface brief
+
 
 This sequence of commands will configure the IP address on the specified interface and verify its status using the show ip interface brief command.
