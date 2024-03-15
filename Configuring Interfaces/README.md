@@ -19,3 +19,11 @@
 'write memory (or wr)': This command saves the current configuration to the startup configuration file, ensuring that changes are persistent across reboots.
 
 'show startup-config': This command displays the contents of the startup configuration file, showing the configuration that will be applied upon reboot.
+
+# Preview
+
+![Screenshot 2024-03-15 122653](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/72a4467c-74e5-438c-8b5c-02d290a00b50)
+
+
+![Screenshot 2024-03-15 122710](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/8e7b9596-e8e9-42a5-8044-eb1e47734635)
+
