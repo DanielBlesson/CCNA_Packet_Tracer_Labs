@@ -21,5 +21,4 @@ This command displays the router's routing table, showing the list of directly c
 
 
 
-
 ![Screenshot 2024-03-16 202501](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/7e4d0307-4d08-43a4-a807-8277a41508bb)
