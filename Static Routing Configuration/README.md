@@ -14,7 +14,7 @@ To view the routing table on a Cisco router, you would use the show ip route com
 Example:
 Router# show ip route
 This command displays the router's routing table, showing the list of directly connected networks as well as any networks learned through dynamic routing protocols or configured via static routes.
-
+ 
 
 # Preview
 ![Screenshot 2024-03-16 202448](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/3f506087-db42-4c65-9bab-50dfd026dbb7)
