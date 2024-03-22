@@ -48,4 +48,5 @@ This sequence of commands will configure the IP address on the specified interfa
 ![Screenshot 2024-03-14 093617](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/b8e7e818-74f5-416b-a689-a76fdaa38595)
 
 
+
 ![Screenshot 2024-03-14 094022](https://github.com/DanielBlesson/CCNA_Packet_Tracer_Labs/assets/105119931/19cb4a23-b480-45fb-baaa-73f114e62b62)
